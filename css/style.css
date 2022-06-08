@@ -3605,6 +3605,11 @@ a.navbar-brand {
 a.nav-link {
     color: var(--white) !important;
     opacity: 80%;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
 }
 
 nav.navbar {
@@ -3907,7 +3912,7 @@ div.first-space {
 }
 
 div.second-space {
-    margin-top: -21rem;
+    margin-top: -20rem;
 }
 
 div.description-skill {
@@ -3927,7 +3932,7 @@ div.ui-design {
 }
 
 div.third-space {
-    margin-top: -10rem;
+    margin-top: -9rem;
 }
 
 div.artist-description {

@@ -1,0 +1,43 @@
+<?php
+
+define("_JOB", "Développeur Full Stack & Concepteur UX");
+define("_HOME", "Accueil");
+define("_SERVICES", "Compétences");
+define("_PROJECTS", "Projets");
+define("_ABOUT", "À propos");
+define("_CONTACT", "Contact");
+define("_HI", "Bonjour ! Je suis");
+define("_UXDESIGNER", "Concepteur UX");
+define("_ILLUSTRATOR", "Illustrateur");
+define("_BASED", "Basé à Paris, France");
+define("_LEARN", "Pour en savoir plus sur moi et mes projets");
+define("_PLACE", "Vous êtes au bon endroit");
+define("_MYSKILLS", "Mes Compétences");
+define("_TOOLBOX", "Une boîte à outils pour tout type de projets");
+define("_DEVELOPERSKILLS", "Développeur");
+define("_DEVELOPERDESCRIPTION", "Une grande connaissance de HTML / CSS, PHP & jQuery. Je crée des applications réactives avec Bootstrap avec des conceptions d'interface utilisateur interactives");
+define("_UXDESIGN", "Conception UX");
+define("_UXDESIGNDESCRIPTION", "Un amour pour le design et un bon sens de la créativité. Je sais utiliser Figma ou bien Proto.io pour créer des maquettes fonctionnels et intuitive");
+define("_ILLUSTRATORDESCRIPTION", "Illustrateur et Dessinateur à mes heures perdues. Je maitrise Illustrator & Procreate pour mes diverses creations");
+define("_MYPROJECTS", "Mes projets");
+define("_SELECTIONPROJECTS", "Une sélection de mes meilleurs projets");
+define("_INCLUDEWEB", "y compris ce site web");
+define("_ENIGMA", "Projet Enigma");
+define("_OPARTY", "Organisateur et gestion de fête");
+define("_CURIOUS", "Curieux de voir tous mes projets");
+define("_GITHUB", "Visitez mon Github");
+define("_ABOUTME", "À propos de moi");
+define("_WELCOME", "Bienvenue dans mon monde");
+define("_EDUCATION", "Education");
+define("_EDUCATIONDESCRIPTION", "J'ai eu la chance de faire l'école 42 à Paris jusqu'au stage puis j'ai appris par moi-même");
+define("_ILLUSTRATION", "Illustration");
+define("_ILLUSTRATIONDESCRIPTION", "Je dessine depuis petit et j'ai appris à utiliser ceci pour mes différentes créations (logo, avatar, rendu, etc)");
+define("_HUMAN", "Humain");
+define("_HUMANDESCRIPTION", "J'ai le contact humain facile, je suis toujours de bonne humeur et je peux m'arranger dans toutes les situations");
+define("_GAMING", "Jeux Vidéos");
+define("_GAMINGDESCRIPTION", "J'ai été chef de raid pendant un temps sur WoW & je joue a tout type de jeux videos sur mon temps libre");
+define("_QUOTE", "Motivé, Creatif et Rigoureux sont les mots d'ordre");
+define("_MORE", "Vous voulez en savoir plus ? Visitez mon");
+define("_IDEA", "Une idée pour moi");
+define("_CONTACTME", "Contactez moi");
+
