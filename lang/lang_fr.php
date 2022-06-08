@@ -1,13 +1,13 @@
 <?php
 
-define("_JOB", "Développeur Full Stack & Concepteur UX");
+define("_JOB", "Développeur WEB & UX Designer");
 define("_HOME", "Accueil");
 define("_SERVICES", "Compétences");
 define("_PROJECTS", "Projets");
 define("_ABOUT", "À propos");
 define("_CONTACT", "Contact");
 define("_HI", "Bonjour ! Je suis");
-define("_UXDESIGNER", "Concepteur UX");
+define("_UXDESIGNER", "UX Designer");
 define("_ILLUSTRATOR", "Illustrateur");
 define("_BASED", "Basé à Paris, France");
 define("_LEARN", "Pour en savoir plus sur moi et mes projets");
@@ -16,7 +16,7 @@ define("_MYSKILLS", "Mes Compétences");
 define("_TOOLBOX", "Une boîte à outils pour tout type de projets");
 define("_DEVELOPERSKILLS", "Développeur");
 define("_DEVELOPERDESCRIPTION", "Une grande connaissance de HTML / CSS, PHP & jQuery. Je crée des applications réactives avec Bootstrap avec des conceptions d'interface utilisateur interactives");
-define("_UXDESIGN", "Conception UX");
+define("_UXDESIGN", "UX Design");
 define("_UXDESIGNDESCRIPTION", "Un amour pour le design et un bon sens de la créativité. Je sais utiliser Figma ou bien Proto.io pour créer des maquettes fonctionnels et intuitive");
 define("_ILLUSTRATORDESCRIPTION", "Illustrateur et Dessinateur à mes heures perdues. Je maitrise Illustrator & Procreate pour mes diverses creations");
 define("_MYPROJECTS", "Mes projets");

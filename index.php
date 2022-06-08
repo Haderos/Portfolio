@@ -28,6 +28,11 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-color">
     <div class="container-fluid nav-font pt-1">
         <a class="navbar-brand nav-name offset-lg-2 col-lg-2" onclick="navto('divhome')">Florian Pernes</a>
+        <div class="d-lg-none">
+            <a onclick="changeLang()" style="cursor: pointer" id="flagLang" data-lang="<?= $lang ?>">
+                <img src="/images/<?= ($lang == 'fr' ? 'en' : 'fr') ?>.svg" style="width: 24px; height: 24px;" id="langImg">
+            </a>
+        </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon position-relative justify-content-sm-end"></span>
@@ -50,7 +55,7 @@
                     <a class="nav-link active"><?= _CONTACT ?></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active">CV</a>
+                    <a class="nav-link active" href="/images/CV.png" download>CV</a>
                 </li>
             </ul>
             <div class="d-none d-lg-block pe-5">
@@ -502,4 +507,3 @@
 </script>
 </body>
 </html>
-p
